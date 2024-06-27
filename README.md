@@ -1,5 +1,5 @@
 ## Architecture Diagram
-<img src="assets/architecture%20diagram.png" alt="Architecture Diagram" width="300"/>
+<img src="assets/architecture%20diagram.png" alt="Architecture Diagram" width="500"/>
 
 ## Running
 
