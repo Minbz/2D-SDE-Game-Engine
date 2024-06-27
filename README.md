@@ -24,7 +24,7 @@
 
 ## Compilation Instructions
 
-**Rebuild mygameengine.so module in linux**
+**Rebuild mygameengine.so module**
 
 `python3 linuxbuildengine.py`
 
