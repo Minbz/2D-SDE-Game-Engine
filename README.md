@@ -1,3 +1,6 @@
+## Architecture Diagram
+![Architecture Diagram]("assets/architecture diagram.png")
+
 ## Running
 
 ### Run the Game
