@@ -1,5 +1,5 @@
 ## Architecture Diagram
-![Architecture Diagram](assets/architecture%20diagram.png)
+<img src="assets/architecture%20diagram.png" alt="Architecture Diagram" width="300"/>
 
 ## Running
 
